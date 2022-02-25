@@ -3,8 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BatteryIndicator/app/src/main/res/drawable/battery_level.xml" value="0.20888661899897856" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/BatteryIndicator/app/src/main/res/drawable/ic_add_24.xml" value="0.20888661899897856" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/BatteryIndicator/app/src/main/res/drawable/ic_battery_0.xml" value="0.20888661899897856" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BatteryIndicator/app/src/main/res/drawable/ic_battery_1.xml" value="0.20888661899897856" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BatteryIndicator/app/src/main/res/drawable/ic_battery_2.xml" value="0.20888661899897856" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BatteryIndicator/app/src/main/res/drawable/ic_battery_3.xml" value="0.20888661899897856" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BatteryIndicator/app/src/main/res/drawable/ic_battery_4.xml" value="0.20888661899897856" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BatteryIndicator/app/src/main/res/drawable/ic_battery_5.xml" value="0.20888661899897856" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BatteryIndicator/app/src/main/res/drawable/ic_battery_6.xml" value="0.20888661899897856" />
+        <entry key="..\:/Users/hp/AndroidStudioProjects/BatteryIndicator/app/src/main/res/drawable/ic_battery_full.xml" value="0.20888661899897856" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/BatteryIndicator/app/src/main/res/drawable/ic_remove.xml" value="0.20888661899897856" />
         <entry key="..\:/Users/hp/AndroidStudioProjects/BatteryIndicator/app/src/main/res/layout/activity_main.xml" value="0.25" />
       </map>
